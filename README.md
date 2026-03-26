@@ -102,7 +102,7 @@ A future where:
 ## Links
 
 - 🌐 https://velkaris.app  
-- 📚 https://docs.velkaris.app  
+- 📚 velkaris.app/docs 
 - 📦 https://npmjs.com/package/@velkaris/cli  
 - 🧠 https://npmjs.com/package/@velkaris/sdk  
 - 🐦 https://x.com/Velkaris_Agent  
